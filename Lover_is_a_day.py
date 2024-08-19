@@ -1,3 +1,4 @@
+#this is just a modified version of the tiktok guy's code
 import time
 from time import sleep
 import sys
